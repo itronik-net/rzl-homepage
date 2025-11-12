@@ -22,7 +22,7 @@ Das diesjährige [SaarCTF](https://ctf.saarland/) stellte acht Dienste bereit �
 
 - **BlockRope**: ein in Python geschriebener Telnet‑Server mit Path‑Manipulation‑Lücke. Exploit entwickelt.
 - **Calendar**: eine kompilierte Anwendung mit Redis‑Datenbank. Enthielt eine Lua‑Code‑Injection und einen Heap‑Buffer‑Overflow.
-- **Licenser** – Binary-Applikation mit Remote-Code-Execution (RCE).  
+- **Licenser**: kompilierte Anwendung mit Remote‑Code‑Execution Lücke (RCE).
 - **No-Service** – Dieser Dienst hatte keine eigene Sicherheitslücke; konnte nur über andere Dienste ausgenutzt werden.  
 - **RCEaaS** – CMD-Emulator in Rust („ACMD-ähnlich“); anfällig für Path-Traversal und RCE. Mehrere Exploits entstanden.  
 - **Routerploit**: PHP‑basierter Webshop mit fehlerhafter Rechteprüfung. Zwei unterschiedliche Exploits implementiert.
