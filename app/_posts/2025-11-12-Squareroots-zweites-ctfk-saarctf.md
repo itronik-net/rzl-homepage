@@ -24,7 +24,7 @@ Das diesjährige [SaarCTF](https://ctf.saarland/) stellte acht Dienste bereit �
 - **Calendar**: eine kompilierte Anwendung mit Redis‑Datenbank. Enthielt eine Lua‑Code‑Injection und einen Heap‑Buffer‑Overflow.
 - **Licenser**: kompilierte Anwendung mit Remote‑Code‑Execution Lücke (RCE).
 - **No‑Service:** hatte keine eigene Sicherheitslücke, konnte aber über andere verwundbare Dienste kompromittiert werden.
-- **RCEaaS** – CMD-Emulator in Rust („ACMD-ähnlich“); anfällig für Path-Traversal und RCE. Mehrere Exploits entstanden.  
+- **RCEaaS**: CMD‑Emulator in Rust („ACMD‑ähnlich“). Anfällig für Path‑Traversal und RCE. Mehrere Exploits entstanden.
 - **Routerploit**: PHP‑basierter Webshop mit fehlerhafter Rechteprüfung. Zwei unterschiedliche Exploits implementiert.
 - **SSSG**: Multi‑Webserver mit OAuth‑Flow. Enthielt eine RCE.
 - **SaarLandCryptoGalore**: nutzte einen Linear Congruential Generator (LCG) zur Verschlüsselung und war anfällig für einen Known‑Plaintext‑Angriff.
