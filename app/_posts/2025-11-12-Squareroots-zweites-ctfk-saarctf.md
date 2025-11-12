@@ -13,7 +13,7 @@ author:
 
 Am vergangenen Wochenende haben die **Squareroots** nach ihrem Comeback vor einem Monat erneut an einem gemeinsamen Attack-/Defense-CTF teilgenommen – beim **SaarCTF 2025**, organisiert vom Team **Saarsec**. Zielstrebig, vorbereitet und mit neuer Energie erreichten sie **Platz 23** von rund **290** angemeldeten Teams – eine starke Leistung der noch neuen Generation an Flaggenjägern.
 
-Beim Attack-/Defense-CTF erhält jedes Team identische virtuelle Maschinen mit diversen Services (z. B. Web-, Telnet- oder Mail-Servern). Die Aufgaben dabei sind: Schwachstellen finden und beseitigen, um die eigenen Flaggen zu schützen, **und** zugleich die Gegner anzugreifen, um deren Flaggen zu erobern.  
+Bei einem Attack/Defense-CTF erhält jedes Team identische virtuelle Maschinen mit verschiedenen Services (z. B. Web-, Telnet- oder Mail-Servern). Die Aufgabe: Schwachstellen finden und schließen, um die eigenen Flaggen zu schützen — und gleichzeitig die Systeme der anderen Teams angreifen, um deren Flaggen zu erobern.
 
 Im Unterschied zum ersten gemeinsamen CTF fokussierten wir uns diesmal nicht nur auf Verteidigung. Mit vorbereiteten Tools – etwa zur Traffikanalyse, einem automatisierten Flag-Submitting-Framework und einer Exploit-Toolchain – sind wir offensiv aktiv geworden. Verteidigung war Pflicht, Angriff unser Ziel – und mit über **39.000** eroberten Flaggen haben wir dieses Ziel erreicht!
 
