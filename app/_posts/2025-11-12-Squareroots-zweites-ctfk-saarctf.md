@@ -27,7 +27,7 @@ Das diesjährige [SaarCTF](https://ctf.saarland/) stellte acht Dienste bereit �
 - **RCEaaS** – CMD-Emulator in Rust („ACMD-ähnlich“); anfällig für Path-Traversal und RCE. Mehrere Exploits entstanden.  
 - **Routerploit** – PHP-basierter Webshop mit fehlerhafter Rechteprüfung. Zwei unterschiedliche Exploits implementiert.  
 - **SSSG** – Multi-Webserver mit OAuth-Flow; enthielt eine RCE.  
-- **SaarLandCryptoGalore** – Verschlüsselung mittels LCG (Linear Congruential Generator); anfällig für eine Known-Plaintext-Attacke.
+- **SaarLandCryptoGalore**: nutzte einen Linear Congruential Generator (LCG) zur Verschlüsselung und war anfällig für einen Known‑Plaintext‑Angriff.
 
 ## Fazit  
 Wir sind mehr als zufrieden: Die Squareroots haben gezeigt, dass sie nach dem Comeback nicht nur defensiv stabil sind, sondern auch offensiv angreifen können. Die Kombination aus guter Vorbereitung, passender Toolchain und entschlossener Durchführung spiegelt sich im Ergebnis wider — **Platz 23 von rund 290 Teams** spricht für sich.
