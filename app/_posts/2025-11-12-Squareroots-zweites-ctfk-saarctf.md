@@ -35,4 +35,5 @@ Wir sind mehr als zufrieden – die Squareroots haben gezeigt, dass sie nach dem
 Wenn du Lust hast, mit uns gemeinsam bei einem CTF mitzumachen oder einfach Interesse an CTFs und Austausch hast – **melde dich gerne bei uns!**
 
 ### Wie kannst du uns erreichen
-**Matrix:** [#rzl-ctf:hax404.de](https://matrix.to/#/#rzl-ctf:hax404.de) oder komm einfach an einen unserer zweiwöchentlichen treffen im Raumzeitlabor vorbei. Im Kalendar kannst du die Tage & Uhrzeiten finden: [Link](https://raumzeitlabor.de/events/index.html)
+**Matrix:** [#rzl-ctf:hax404.de](https://matrix.to/#/#rzl-ctf:hax404.de)
+Oder komm einfach an einen unserer zweiwöchentlichen treffen im RaumZeitLabor vorbei. Im Kalendar kannst du die Tage & Uhrzeiten finden: [Link](https://raumzeitlabor.de/events/index.html)
