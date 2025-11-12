@@ -32,7 +32,7 @@ Das diesjährige [SaarCTF](https://ctf.saarland/) stellte acht Dienste bereit �
 ## Fazit  
 Wir sind mehr als zufrieden – die Squareroots haben gezeigt, dass sie nach dem Comeback nicht nur defensiv stabil sind, sondern auch offensiv angreifen können. Die Kombination aus guter Vorbereitung, passender Toolchain und entschlossener Durchführung spiegelt sich im Ergebnis wider. **Platz 23 von ~290 Teams** spricht für sich.
 
-Wenn du Lust hast, mit uns gemeinsam bei einem CTF mitzumachen oder einfach Interesse an CTFs und Austausch hast – **melde dich gerne bei uns!**
+Wenn du Lust hast, bei einem CTF mitzumachen oder einfach Interesse am Thema und Austausch hast, **melde dich gerne bei uns**!
 
 ### Wie kannst du uns erreichen
 **Matrix:** [#rzl-ctf:hax404.de](https://matrix.to/#/#rzl-ctf:hax404.de)
