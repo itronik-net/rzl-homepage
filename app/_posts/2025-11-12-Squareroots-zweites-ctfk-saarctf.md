@@ -20,7 +20,7 @@ Im Unterschied zum ersten gemeinsamen CTF fokussierten wir uns diesmal nicht nur
 ## Die Challenges im Überblick  
 Das diesjährige [SaarCTF](https://ctf.saarland/) stellte acht Dienste bereit – von Kryptographie über Binary-Exploits bis zu Web-Services:
 
-- **BlockRope** – Ein in Python geschriebener Telnet-Server mit Path-Manipulation-Lücke. Exploit entwickelt.  
+- **BlockRope**: ein in Python geschriebener Telnet‑Server mit Path‑Manipulation‑Lücke. Exploit entwickelt.
 - **Calendar** – Binary-Applikation mit Redis-Datenbank; enthielt eine Lua-Code-Injection und einen Heap-Buffer-Overflow.  
 - **Licenser** – Binary-Applikation mit Remote-Code-Execution (RCE).  
 - **No-Service** – Dieser Dienst hatte keine eigene Sicherheitslücke; konnte nur über andere Dienste ausgenutzt werden.  
